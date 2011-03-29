@@ -2,7 +2,8 @@
 
 Project Members
 ================================================
-
+Mehdi Esmaeelpour (ariarat@gmail.com)
+Your name (yourmail)
 
 
 
@@ -16,11 +17,71 @@ Name : Beginning Slackware (Persian)
 
 
 Chapters
-==================================================
+============================================================================
 
-Chapter 1 : What is Slackware? and brief history of slackware development
+Chapter 1 : 
+	
+	* What is Operating System?
+	* What is UNIX? and brief history of UNIX development
+	* What is LINUX? and brief history of LINUX development
+	* Open source and Free software
+	* What is Slackware? and brief history of Slackware development
+	* Some basic and common terms
+
 Chapter 2 : Insall Slackware
-Chapter 3 :  
+
+	* 
+	* 
+	* 
+	* 
+	* 
+	* 
+
+Chapter 3 : 
+
+	* Slackware installation prerequisites
+	* Partitioning
+	* Slackware Installation environment
+	* Install Slackware beside WINDOWS and add WINDOWS partitions
+	* different methods of installation
+	* Slackware package series 
+	* Details of package installation
+	* Making Tag and Tagfiles
+
+Chapter 4 : 
+
+	* System overview
+	* Booting process
+	* System init scripts
+	* Run services
+	* Network configuration
+	* Wireless
+	* Slackware packages and package managers
+
+Chapter 5 : 
+	
+	* X environment and configurations
+	* Desktop environments
+	* Boot managers
+	* Installing hardwares
+
+Chapter 6 :
+
+	* What is SHELL?
+	* BASH
+	* Some useful and common commands
+	* Pipes and redirection
+	* The shell as a programming language
+	* Shell syntax
+	* The Dialog utility
+
+Resources : 
+
+	* http://www.wikipedia.org
+	* Beginning Linux programming - 4th edition - Wrox
+
+============================================================================
+
 
 
 
