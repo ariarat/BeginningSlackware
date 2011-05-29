@@ -4,6 +4,7 @@ Project Members
 ================================================
 Mehdi Esmaeelpour | ariarat [at] gmail [dot] com | http://www.slack-world.com/ariarat
 Shahin Azad
+Alireza Rafiee | alireza [at] rafiee [dot] info | http://alireza.rafiee.info/
 
 
 
@@ -47,6 +48,7 @@ Chapter 3 :
 	* Slackware package series 
 	* Details of package installation
 	* Making Tag and Tagfiles
+	* Other options of Slackware installation (Encrypted partitions, LVMs etc.)
 
 Chapter 4 : 
 
@@ -79,6 +81,8 @@ Resources :
 
 	* http://www.wikipedia.org
 	* Beginning Linux programming - 4th edition - Wrox
+	* http://slackbook.org/
+	* http://slackware.osuosl.org/
 
 ============================================================================
 
